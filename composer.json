@@ -66,6 +66,11 @@
             "dont-discover": []
         }
     },
+    "require": {
+    "php": "^8.1",
+    "laravel/framework": "^10.0",
+    ...
+},
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
